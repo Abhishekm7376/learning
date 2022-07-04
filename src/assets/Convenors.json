@@ -1,0 +1,118 @@
+[
+    {
+        "id":1,
+        "Name of the Committee": "Aesthetics Committee (Convocation Branding: Director's Report Invitation Card, Souvenir, Backdrop, Video etc.)",	
+        "Convenor/Member" : [
+            "Prof. Gaurav Raheja,AR",
+            "Prof. Manish Asthana, HSS"
+        ]
+    },
+    {
+        "id":2,
+        "Name of the Committee": "Committee for list of invitees",	
+        "Convenor/Member" : [
+            "Prof. M. R. Maurya, Dean, Faculty Affairs",
+            "Prof. Anuj Sharma"
+        ]
+    },
+    {
+        "id":3,
+        "Name of the Committee": "Convocation Registration and Convocation Website",		
+        "Convenor/Member" : [
+            "Prof. A. Swaminathan, ADOAA (ITS & A)"
+        ]
+    },
+    {
+        "id":4,
+        "Name of the Committee": "Convocation Dress",
+        "Convenor/Member" : [
+            "Prof. M. L. Kansal, WRD & M",
+            "Prof. C. N. Ramachandran, ADOAA (Curriculum)",
+            "Prof. Mahua Mukherjee, AR"
+        ]
+    },
+    {
+        "id":5,
+        "Name of the Committee": "Convocation Procession",
+        "Convenor/Member" : [
+            "Prof. Vipul Rastogi, PH",
+            "Prof. P. Gopinath, BE",
+            "Prof. Avlokita Agrawal, AR"
+        ]
+    },
+    {
+        "id":6,
+        "Name of the Committee": "Catering Committee",	
+        "Convenor/Member" : [
+            "Prof. Ashraf Iqbal, ADOSW (Bhawan & Mess)"
+        ]
+    },
+    {
+        "id":7,
+        "Name of the Committee": "Director's Report",
+        "Convenor/Member" : [
+            "Prof. M. L. Sharma, Dean, Finance & Plannin",
+            "Prof. Manish Shrikhande, Dean, SRIC",
+            "Dr. Rona Banerjee, SRIC Office"
+        ]
+    },
+    {
+        "id":8,
+        "Name of the Committee": "Preparation and Printing of Degrees",
+        "Convenor/Member" : [
+            "Prof. Apurbba Kumar Sharma, DoAA",
+            "Prof. Bhavesh Bhalja, ADOAA (Evaluation)",
+            "Prof. Rajat Agarwal, ADII"
+        ]
+    },
+    {
+        "id":9,
+        "Name of the Committee": "Preparation of Prizes, Medals and Awards",
+        "Convenor/Member" : [
+            "Prof. Dheeraj Kumar Khatod, Chairman, SCSI",
+            "Prof. Indrajit Ghosh, CE"
+        ]
+    },
+    {
+        "id":10,
+        "Name of the Committee": "Design of Medals and Certificates, Preparation and Dispatch of Medals, Awards and Degrees",	
+        "Convenor/Member" : [
+            "Prof. Bhavesh Bhalja, ADOAA (Evaluation)",
+            "Prof. Sonal Atreya, AR"            
+        ]
+    },
+    {
+        "id":11,
+        "Name of the Committee": "Publication and Printing of Convocation Material",	
+        "Convenor/Member" : [
+            "Prof. P.S. Chani, AR",
+            "Prof. Vinay Sharma, PIC, Placement & Internship",
+            "Prof. Manoj Tripathy, EE"
+        ]
+    },
+    {
+        "id":12,
+        "Name of the Committee": "Video Coverage and Photography",
+        "Convenor/Member" : [
+            "Prof. Priti Maheshwari, Co-ordinator, ELC",
+            "Prof. Saptarshi Kolay, AR"
+        ]
+    },
+    {
+        "id":13,
+        "Name of the Committee": "Media Coverage/ Publicity/Messages/Public Relations/ Press",	
+        "Convenor/Member" : [
+            "Prof. M. Parida, Chairperson, IDC",
+            "Prof. Akshay Dvivedi, ADCI"
+        ]
+    },
+    {
+        "id":14,
+        "Name of the Committee": "Finance and Accounts",	
+        "Convenor/Member" : [
+            "Prof. M. L. Sharma, Dean, Finance & Planning"
+        ]
+    }
+    
+    
+]

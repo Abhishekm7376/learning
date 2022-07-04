@@ -1,0 +1,180 @@
+[
+    {
+        "id":1,
+        "image":"",
+        "Department": "Architecture & Planning",	
+        "Name": "Prof. Gaurav Raheja",	
+        "Mail-id": "aplng@iitr.ac.in",	
+        "Contact": "+91-1332-285214"
+    },
+    {
+        "id":2,
+        "image":"",
+        "Department": "Biosciences and Bioengineering",	
+        "Name": "Prof. Pravindra Kumar",	
+        "Mail-id": "biotech@iitr.ac.in",	
+        "Contact": "+91-1332-285216"
+    },
+    {
+        "id":3,
+        "image":"",
+        "Department": "Chemical Engineering", 	
+        "Name": "Prof. Vimal Chandra Srivastava",	
+        "Mail-id": "chemi@iitr.ac.in",	
+        "Contact": "+91-1332-285217"
+        
+    },
+    {
+        "id":4,
+        "image":"",
+        "Department": "Chemistry",	
+        "Name": "Prof. K. R. Justin Thomas",	
+        "Mail-id": "chemt@iitr.ac.in",	
+        "Contact": "+91-1332-285218"
+    },
+    {
+        "id":5,
+        "image":"",
+        "Department": "Civil Engineering",	
+        "Name": "Prof. S. K. Ghosh",	
+        "Mail-id": "civil@iitr.ac.in",	
+        "Contact": "+91-1332-285219"
+    },
+    {
+        "id":6,
+        "image":"",
+        "Department": "Computer Science & Engineering",	
+        "Name": "Prof. Sugata Gangopadhyay",	
+        "Mail-id": "headcse@iitr.ac.in",	
+        "Contact": "+91-1332-285206"
+        
+    },
+    {
+        "id":7,
+        "image":"",
+        "Department": "Design",	
+        "Name": "Prof. Inderdeep Singh"	,
+        "Mail-id": "head@design.iitr.ac.in",	
+        "Contact": "+91-1332-284872"
+    },
+    {
+        "id":8,
+        "image":"",
+        "Department": "Earthquake Engineering",	
+        "Name": "Prof. Pankaj Agrawal",	
+        "Mail-id": "quake@iitr.ac.in",	
+        "Contact": "+91-1332-285228"
+    },
+    {
+        "id":9,
+        "image":"",
+        "Department": "Earth Sciences",	
+        "Name": "Prof. Sunil Bajpai",	
+        "Mail-id": "earth@iitr.ac.in",	
+        "Contact": "+91-1332-285232"
+    },
+    {
+        "id":10,
+        "image":"",
+        "Department": "Electrical Engineering",	
+        "Name": "Prof. G.N. Pillai"	,
+        "Mail-id": "elect@iitr.ac.in",	
+        "Contact": "+91-1332-285231"
+    },
+    {
+        "id":11,
+        "image":"",
+        "Department": "Electronics & Communication Engg",	
+        "Name": "Prof. Sudeb Dasgupta",	
+        "Mail-id": "eandc@iitr.ac.in ,headeandc@iitr.ac.in",
+        "Contact": "+91-1332-285235"
+    },
+    {
+        "id":12,
+        "image":"",
+        "Department": "Humanities & Social Sciences",	
+        "Name": "Prof. A.J. Mishra",	
+        "Mail-id": "hums@iitr.ac.in",	
+        "Contact": "+91-1332-285234"
+    },
+    {
+        "id":13,
+        "image":"",
+        "Department": "Hydro and Renewable Energy",	
+        "Name": "Prof. S. K. Singhal",	
+        "Mail-id": "hred@iitr.ac.in",	
+        "Contact": "+91-1332-285213"
+    },
+    {
+        "id":14,
+        "image":"",
+        "Department": "Hydrology",	
+        "Name": "Prof. Brijesh Kumar Yadav",	
+        "Mail-id": "hydrology@iitr.ac.in",	
+        "Contact": "+91-1332-285236"
+    },
+    {
+        "id":15,
+        "image":"",
+        "Department": "Management Studies",	
+        "Name": "Prof. Usha Lenka",	
+        "Mail-id": "doms@iitr.ac.in",	
+        "Contact": "+91-1332-285014"
+    },
+    {
+        "id":16,
+        "image":"",
+        "Department": "Mathematics",	
+        "Name": "Prof. Premanand Bera",	
+        "Mail-id": "maths@iitr.ac.in",	
+        "Contact": "+91-1332-285249"
+    },
+    {
+        "id":17,
+        "image":"",
+        "Department": "Mech & Industrial Engg",	
+        "Name": "Prof. B. K. Gandhi",	
+        "Mail-id": "hmied@iitr.ac.in",	
+        "Contact": "+91-1332-285242"
+    },
+    {
+        "id":18,
+        "image":"",
+        "Department": "Metallurgical & Materials Engg",	
+        "Name": "Prof. G. P. Chaudhari",	
+        "Mail-id": "metal@iitr.ac.in",	
+        "Contact": "+91-1332-285606"
+    },
+    {
+        "id":19,
+        "image":"",
+        "Department": "Physics", 	
+        "Name": "Prof. G.D. Verma",	
+        "Mail-id": "physics_head@iitr.ac.in",	
+        "Contact": "+91-1332-285248"
+    },
+    {
+        "id":20,
+        "image":"",
+        "Department": "Polymer and Process Engg",	
+        "Name": "Prof. Sujay Chattopadhyay",	
+        "Mail-id": "hodppe@iitr.ac.in",	
+        "Contact": "+91-0132-271-4374"
+    },
+    {
+        "id":21,
+        "image":"",
+        "Department": "Pulp and Paper Technology",	
+        "Name": "Prof. Chhaya Sharma",	
+        "Mail-id": "hodpt@iitr.ac.in",	
+        "Contact": "+91-0132-271-4346"
+    },
+    {
+        "id":22,
+        "image":"",
+        "Department": "WRD&M", 	
+        "Name": "Prof. Ashish Pandey",	
+        "Mail-id": "wrdtc@iitr.ac.in",	
+        "Contact": "+91-1332-285251"
+    }
+]

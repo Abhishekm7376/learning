@@ -1,0 +1,210 @@
+[
+    {
+        "id":1,
+        "image":"",
+        "Designation":	"Director",
+        "Name":	"Prof. Ajit K. Chaturvedi",
+        "Mail-id":	"director@iitr.ac.in",
+        "Contact":	"+91-1332-286741"
+        
+    },
+    {
+        "id":2,
+        "image":"",
+        "Designation" : "Dy. Director",	
+        "Name": "Prof. Manoranjan Parida",	
+        "Mail-id": "ddirector@iitr.ac.in",			
+        "Contact" : "91-1332-286462"
+        
+    },
+    {
+        "id":3,
+        "image":"",
+        "Designation" : "Dean Administration",	
+        "Name": "Prof. Ravi Kumar",	
+        "Mail-id": "daiitr@iitr.ac.in",			
+        "Contact" : "91-1332-286331"
+    },
+    {
+        "id":4,
+        "image":"",
+        "Designation" : "Dean Resources and Alumni Affairs",	
+        "Name": "Prof. Partha Roy",	
+        "Mail-id": "dora@iitr.ac.in",			
+        "Contact" : "91-1332-287081"
+        
+    },
+    {
+        "id":5,
+        "image":"",
+        "Designation" : "Dean Finance & Planning",	
+        "Name": "Prof. M. L. Sharma",	
+        "Mail-id": "deanfap_f@iitr.ac.in",			
+        "Contact" : "91-1332-286511"
+    },
+    {
+        "id":6,
+        "image":"",
+        "Designation" : "Dean Faculty Affairs",	
+        "Name": "Prof. M. R. Maurya",	
+        "Mail-id": "dfa@iitr.ac.in",			
+        "Contact" : "91-1332-286474"
+        
+    },
+    {
+        "id":7,
+        "image":"",
+        "Designation":"Dean Academic Affairs",	
+        "Name":"Prof. Apurbba Kumar Sharma",	
+        "Mail-id": "daa@iitr.ac.in",			
+        "Contact" : "91-1332-286496"
+    },
+
+    {
+        "id":8,
+        "image":"",
+        "Designation": "Dean Sponsored Research & Industrial Consultancy",
+        "Name": "Prof. Manish Shrikhande",	
+        "Mail-id": "dsric@iitr.ac.in",		
+        "Contact" : "91-1332-286486"
+        
+    },
+    
+    {
+        "id":9,
+        "image":"",
+        "Designation" : "Dean Students’ Welfare",	
+        "Name" : "Prof. Mukesh Kumar Barua",
+        "Mail-id" : "dosw@iitr.ac.in",			
+        "Contact" : "91-1332-286487"
+        
+    },
+    
+    {
+        "id":10,
+        "image":"",
+        "Designation" : "Dean Infrastructure",	
+        "Name": "Prof. Umesh Kr. Sharma",	
+        "Mail-id": "dinfra@iitr.ac.in",			
+        "Contact" : "91-1332-287023"
+        
+    },
+    
+    {
+        "id":11,
+        "image":"",
+        "Designation" : "Dean Saharanpur Campus",	
+        "Name": "Prof. Y. S. Negi",	
+        "Mail-id": "deansaharanpurcampus@iitr.ac.in",		
+        "Contact" : "91-0132-2714328"
+        
+        
+    },
+    
+    {
+        "id":12,
+        "image":"",
+        "Designation": "Associate Dean (Corporate Interaction)",	
+        "Name": "Prof. Akshay Dvivedi",	
+        "Mail-id": "adci@iitr.ac.in",	
+        "Contact": "+91-1332-285378"
+        
+    },
+    {
+        "id":13,
+        "image":"",
+        "Designation": "Associate Dean (Innovation and Incubation)",	
+        "Name": "Prof. Rajat Agrawal",	
+        "Mail-id": "adii@iitr.ac.in",	
+        "Contact": "+91-1332-285810"
+    },
+    {
+        "id":14,
+        "image":"",
+        "Designation": "Associate DOFA",	
+        "Name": "Prof. P. Sumathi",	
+        "Mail-id": "adfa@iitr.ac.in",	
+        "Contact": "+91-1332-285525"
+    },
+    {
+        "id":15,
+        "image":"",
+        "Designation": "ADOAA (IT Systems and Admission)",
+        "Name": "Prof. A Swaminathan",	
+        "Mail-id": "adaa-admission@iitr.ac.in",	
+        "Contact": "+91-1332-285875"
+        
+    },
+    {
+        "id":16,
+        "image":"",
+        "Designation": "ADOAA (Curriculum)",
+        "Name": "Prof. C.N. Ramachandran",	
+        "Mail-id": "adaa-curriculum@iitr.ac.in",	
+        "Contact": "+91-1332-285087"
+        
+    },
+    {
+        "id":17,
+        "image":"",
+        "Designation": "ADOAA (Evaluation)",
+        "Name": "Prof. Bhavesh Bhalja",	
+        "Mail-id": "adaa-evaluation@iitr.ac.in",	
+        "Contact": "+91-1332-285007"
+    },
+    {
+        "id":18,
+        "image":"",
+        "Designation": "Associate DOSW (Bhawan & Mess)",	
+        "Name": "Prof. Mohd. Ashraf Iqbal",	
+        "Mail-id": "adosw-bhawan@iitr.ac.in",	
+        "Contact": "+91-1332-285094"
+    },
+    {
+        "id":19,
+        "image":"",
+        "Designation": "Associate DOSW (Student Wellness)",	
+        "Name": "Prof. Kiran Ambatipudi",	
+        "Mail-id": "adoswsw@iitr.ac.in",	
+        "Contact": "+91-1332-285097"
+    },
+    {
+        "id":20,
+        "image":"",
+        "Designation": "Associate DOSW (Students Activities)",	
+        "Name": "Anil Kumar Gourishetty",
+        "Mail-id": "adoswsa@iitr.ac.in",
+        "Contact": "+91-1332-285091"
+        
+    },
+    {
+        "id":21,
+        "image":"",
+        "Designation": "Associate Dean Infrastructure (Electrical & A/C)",	
+        "Name": "Prof. Ganesh Kumbhar",	
+        "Mail-id": "adinfra.elect@iitr.ac.in",	
+        "Contact": "+91-1332-285196"
+        
+    },
+    {
+        "id":22,
+        "image":"",
+        "Designation": "Associate Dean Infrastructure (Civil)",	
+        "Name": "Prof. Rajib Chowdhury",	
+        "Mail-id": "adinfra.civil@iitr.ac.in",
+        "Contact": "+91-1332-285847"
+    },
+    {
+        "id":23,
+        "image":"",
+        "Designation": "Associate Dean Infrastructure (Projects)",	
+        "Name": "Prof. P.C. Ashwin Kumar",	
+        "Mail-id": "ashwin.pc@eq.iitr.ac.in",	
+        "Contact": "--"
+        
+        
+    }
+
+
+
+]

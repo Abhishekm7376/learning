@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "image":"",
+        "Centre": "Centre for Artificial Intelligence and Data Science",	
+        "Name": "Prof. Manoranjan Parida",	
+        "Mail-id": "head@caids.iitr.ac.in",	
+        "Contact": "+91-1332-285221"
+    },
+    {
+        "id":2,
+        "image":"",
+        "Centre": "Centre of Excellence in Transportation Systems",	
+        "Name": "Prof. Durga Toshniwal",	
+        "Mail-id": "durgafec@iitr.ac.in",	
+        "Contact": "+91-1332-285100"
+    },
+    {
+        "id":3,
+        "image":"",
+        "Centre": "Centre of Excellence in Disaster Mitigation & Management",	
+        "Name": "Prof. Sumit Sen",	
+        "Mail-id": "coe_dmm@iitr.ac.in",	
+        "Contact": "+91-1332-285401"
+    },
+    {
+        "id":4,
+        "image":"",
+        "Centre": "Centre of Excellence in Nanotechnology", 	
+        "Name": "Prof. Gopinath Packirisamy",	
+        "Mail-id": "nano@iitr.ac.in",	
+        "Contact": "+91-1332-285490"
+    }
+    
+]
